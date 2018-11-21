@@ -1,0 +1,8 @@
+# open source patreon
+
+pretty much all said in title
+- keep it as simple as possible
+- single page with an integer input and a pay button
+- use stripe billing
+- ideally just enter stripe creds and deploy
+- maybe offer as SAAS, paid or free, use Now or GH Pages etc
